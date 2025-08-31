@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1756572829 source:c:\ejercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"macros.h"
+	"pila_mix_2.h"
+	"pruebas.h"
+
+1756162643 c:\ejercicio1\macros.h
+
+1756572422 c:\ejercicio1\pila_mix_2.h
+	<stdio.h>
+
+1756572441 c:\ejercicio1\pruebas.h
+	"pila_mix_2.h"
+	"stdlib.h"
+	<string.h>
+
+1756572453 source:c:\ejercicio1\pila_mix_2.c
+	"pila_mix_2.h"
+	"private.h"
+	"macros.h"
+	<stdlib.h>
+	<string.h>
+
+1756572431 c:\ejercicio1\private.h
+	"pila_mix_2.h"
+
+1756572473 source:c:\ejercicio1\private.c
+	"private.h"
+	<stdlib.h>
+	<string.h>
+
+1756572947 source:c:\ejercicio1\pruebas.c
+	"pruebas.h"
+
