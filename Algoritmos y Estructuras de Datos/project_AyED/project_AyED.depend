@@ -1,0 +1,395 @@
+# depslib dependency file v1.0
+1762215397 source:c:\project_ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dPila.h"
+	"pruebas.h"
+	"dCola.h"
+	"lista.h"
+	"listaDoble/listadoble.h"
+	"entrega.h"
+	"recursividad.h"
+	"arbol/arbol.h"
+	"menu/menu.h"
+	"listaCircular.h"
+
+1756162662 c:\project_ayed\pila.h
+	"macros.h"
+
+1756162489 source:c:\project_ayed\pila.c
+	"pila.h"
+	<string.h>
+
+1756566467 c:\project_ayed\pila_mix.h
+
+1756566524 source:c:\project_ayed\pila_mix.c
+	"pila_mix.h"
+	"private.h"
+	"pila.h"
+	<stdlib.h>
+	<string.h>
+
+1756161898 c:\project_ayed\private.h
+	"pila_mix.h"
+	"pila_mix_2.h"
+
+1756161817 source:c:\project_ayed\private.c
+	"private.h"
+	<stdlib.h>
+	<string.h>
+
+1762188006 c:\project_ayed\macros.h
+
+1756566579 c:\project_ayed\pila_mix_2.h
+	<stdio.h>
+
+1756164306 source:c:\project_ayed\pila_mix_2.c
+	"pila_mix_2.h"
+	"private.h"
+	"macros.h"
+	<stdlib.h>
+	<string.h>
+
+1762188917 c:\project_ayed\pruebas.h
+	"dPila.h"
+	"dCola.h"
+	"stdlib.h"
+	"lista.h"
+	<string.h>
+	"macros.h"
+	"listaDoble/listadoble.h"
+	"comparaciones/comparaciones.h"
+
+1762217903 source:c:\project_ayed\pruebas.c
+	"pruebas.h"
+	"math.h"
+	"arbol/arbol.h"
+	<stdio.h>
+	"listaDoble/listadoble.h"
+	"recursividad.h"
+	<ctype.h>
+
+1756850121 source:c:\project_ayed\cola.c
+	"cola.h"
+	"macros.h"
+	<string.h>
+
+1756854472 c:\project_ayed\cola.h
+
+1757445888 source:c:\project_ayed\dcola.c
+	"dCola.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1758855044 c:\project_ayed\dcola.h
+	"macros.h"
+
+1757446398 source:c:\project_ayed\dpila.c
+	"dPila.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1758854870 c:\project_ayed\dpila.h
+	"macros.h"
+
+1762027749 source:c:\project_ayed\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1762027761 c:\project_ayed\lista.h
+	"macros.h"
+
+1756162662 c:\project_ayed\spila.h
+	"macros.h"
+
+1758854534 c:\project_ayed\scola.h
+
+1758854577 source:c:\project_ayed\scola.c
+	"sCola.h"
+	"macros.h"
+	<string.h>
+
+1758854584 source:c:\project_ayed\spila.c
+	"sPila.h"
+	<string.h>
+
+1757445888 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\dcola.c
+	"dCola.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1758855044 c:\users\laboratorios\desktop\project_ayed\project_ayed\dcola.h
+	"macros.h"
+
+1761142295 c:\users\laboratorios\desktop\project_ayed\project_ayed\macros.h
+
+1757446398 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\dpila.c
+	"dPila.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1758854870 c:\users\laboratorios\desktop\project_ayed\project_ayed\dpila.h
+	"macros.h"
+
+1760497066 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1760497040 c:\users\laboratorios\desktop\project_ayed\project_ayed\lista.h
+	"macros.h"
+
+1761142129 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dPila.h"
+	"pruebas.h"
+	"dCola.h"
+	"lista.h"
+	"listaDoble.h"
+	"entrega.h"
+	"recursividad.h"
+	"arbol/arbol.h"
+
+1761101404 c:\users\laboratorios\desktop\project_ayed\project_ayed\pruebas.h
+	"dPila.h"
+	"dCola.h"
+	"stdlib.h"
+	"lista.h"
+	<string.h>
+	"macros.h"
+
+1760968764 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\pruebas.c
+	"pruebas.h"
+	"math.h"
+	"arbol/arbol.h"
+	<stdio.h>
+	"listaDoble.h"
+
+1759781176 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\listadoble.c
+	"listaDoble.h"
+	"macros.h"
+	<stdlib.h>
+	<string.h>
+
+1759783302 c:\users\laboratorios\desktop\project_ayed\project_ayed\listadoble.h
+	"macros.h"
+
+1759781176 source:c:\project_ayed\listadoble.c
+	"listaDoble.h"
+	"macros.h"
+	<stdlib.h>
+	<string.h>
+
+1759783302 c:\project_ayed\listadoble.h
+	"macros.h"
+
+1760534412 source:c:\project_ayed\entrega.c
+	"entrega.h"
+	"pruebas.h"
+	<stdio.h>
+
+1760468270 c:\project_ayed\entrega.h
+
+1760488894 c:\project_ayed\recursividad.h
+	"lista.h"
+
+1760533430 source:c:\project_ayed\recursividad.c
+	"recursividad.h"
+	<string.h>
+	<stdio.h>
+
+1760539949 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\arbol.c
+	"arbol.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1760537688 c:\users\laboratorios\desktop\project_ayed\project_ayed\arbol.h
+	"macros.h"
+
+1760534412 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\entrega.c
+	"entrega.h"
+	"pruebas.h"
+	<stdio.h>
+
+1760468270 c:\users\laboratorios\desktop\project_ayed\project_ayed\entrega.h
+
+1760488894 c:\users\laboratorios\desktop\project_ayed\project_ayed\recursividad.h
+	"lista.h"
+
+1760533430 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\recursividad.c
+	"recursividad.h"
+	<string.h>
+	<stdio.h>
+
+1760572652 source:c:\project_ayed\arbol.c
+	"arbol.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1760572666 c:\project_ayed\arbol.h
+	"macros.h"
+
+1762220014 source:c:\project_ayed\arbol\arbol.c
+	"arbol.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1762219132 c:\project_ayed\arbol\arbol.h
+	"../macros.h"
+	"../pruebas.h"
+	<stdio.h>
+
+1762218860 source:c:\project_ayed\comparaciones\comparaciones.c
+	"comparaciones.h"
+
+1761142549 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\arbol\arbol.c
+	"arbol.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1761142325 c:\users\laboratorios\desktop\project_ayed\project_ayed\arbol\arbol.h
+	"../macros.h"
+
+1760968504 source:c:\users\laboratorios\desktop\project_ayed\project_ayed\comparaciones\comparaciones.c
+
+1761754754 source:c:\users\usuario\desktop\project_ayed\arbol\arbol.c
+	"arbol.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1761749323 c:\users\usuario\desktop\project_ayed\arbol\arbol.h
+	"../macros.h"
+	"../pruebas.h"
+	<stdio.h>
+
+1761445724 c:\users\usuario\desktop\project_ayed\macros.h
+
+1760968504 source:c:\users\usuario\desktop\project_ayed\comparaciones\comparaciones.c
+
+1757445888 source:c:\users\usuario\desktop\project_ayed\dcola.c
+	"dCola.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1758855044 c:\users\usuario\desktop\project_ayed\dcola.h
+	"macros.h"
+
+1757446398 source:c:\users\usuario\desktop\project_ayed\dpila.c
+	"dPila.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1758854870 c:\users\usuario\desktop\project_ayed\dpila.h
+	"macros.h"
+
+1760534412 source:c:\users\usuario\desktop\project_ayed\entrega.c
+	"entrega.h"
+	"pruebas.h"
+	<stdio.h>
+
+1760468270 c:\users\usuario\desktop\project_ayed\entrega.h
+
+1761764947 c:\users\usuario\desktop\project_ayed\pruebas.h
+	"dPila.h"
+	"dCola.h"
+	"stdlib.h"
+	"lista.h"
+	<string.h>
+	"macros.h"
+
+1760497040 c:\users\usuario\desktop\project_ayed\lista.h
+	"macros.h"
+
+1760497066 source:c:\users\usuario\desktop\project_ayed\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1759781176 source:c:\users\usuario\desktop\project_ayed\listadoble.c
+	"listaDoble.h"
+	"macros.h"
+	<stdlib.h>
+	<string.h>
+
+1759783302 c:\users\usuario\desktop\project_ayed\listadoble.h
+	"macros.h"
+
+1761765083 source:c:\users\usuario\desktop\project_ayed\pruebas.c
+	"pruebas.h"
+	"math.h"
+	"arbol/arbol.h"
+	<stdio.h>
+	"listaDoble.h"
+	"recursividad.h"
+
+1760533430 source:c:\users\usuario\desktop\project_ayed\recursividad.c
+	"recursividad.h"
+	<string.h>
+	<stdio.h>
+
+1760488894 c:\users\usuario\desktop\project_ayed\recursividad.h
+	"lista.h"
+
+1761765059 source:c:\users\usuario\desktop\project_ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dPila.h"
+	"pruebas.h"
+	"dCola.h"
+	"lista.h"
+	"listaDoble.h"
+	"entrega.h"
+	"recursividad.h"
+	"arbol/arbol.h"
+
+1762053173 source:c:\project_ayed\listacircular.c
+	"listaCircular.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762053255 c:\project_ayed\listacircular.h
+	"macros.h"
+
+1762188840 c:\project_ayed\listadoble\listadoble.h
+	"../macros.h"
+
+1762218793 c:\project_ayed\comparaciones\comparaciones.h
+	"../macros.h"
+	"../arbol/arbol.h"
+
+1762188992 source:c:\project_ayed\listadoble\listadoble.c
+	"listaDoble.h"
+	"../macros.h"
+	<stdlib.h>
+	<string.h>
+
+1762188010 c:\project_ayed\menu\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1762187851 source:c:\project_ayed\menu\menu.c
+	"menu.h"
+

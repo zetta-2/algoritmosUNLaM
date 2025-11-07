@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="recursividad.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2984" topLine="190" />
+		</Cursor>
+	</File>
+	<File name="menu\menu.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="413" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="macros.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1230" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="recursividad.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1262" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="dCola.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="80" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="arbol\arbol.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2671" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="lista.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2714" topLine="103" />
+		</Cursor>
+	</File>
+	<File name="comparaciones\comparaciones.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="356" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="lista.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="380" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="dCola.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="428" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="698" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="pruebas.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="282" topLine="65" />
+		</Cursor>
+	</File>
+	<File name="pruebas.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11933" topLine="418" />
+		</Cursor>
+	</File>
+	<File name="arbol\arbol.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11122" topLine="222" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="12" />
+			<Collapse line="82" />
+			<Collapse line="92" />
+			<Collapse line="102" />
+			<Collapse line="118" />
+			<Collapse line="123" />
+			<Collapse line="140" />
+			<Collapse line="154" />
+			<Collapse line="165" />
+			<Collapse line="176" />
+			<Collapse line="186" />
+			<Collapse line="195" />
+			<Collapse line="204" />
+			<Collapse line="211" />
+			<Collapse line="221" />
+			<Collapse line="231" />
+			<Collapse line="245" />
+			<Collapse line="263" />
+			<Collapse line="273" />
+			<Collapse line="283" />
+			<Collapse line="292" />
+			<Collapse line="307" />
+			<Collapse line="318" />
+			<Collapse line="352" />
+		</Folding>
+	</File>
+	<File name="dPila.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1255" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="comparaciones\comparaciones.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="374" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="dPila.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="386" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="entrega.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1310" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="listaCircular.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3906" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="listaDoble\listaDoble.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="47" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
