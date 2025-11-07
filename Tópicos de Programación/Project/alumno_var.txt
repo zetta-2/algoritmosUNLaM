@@ -1,0 +1,11 @@
+10|Juan Perez|4.0
+20|Florencia Re|4.0
+30|Maria Benitez|7.5
+40|Victor Gomez|7.5
+50|Flavio Gomez|9.2
+60|Claudio Dadomo|9.9
+70|Julieta Beltran|3.0
+90|Fernanda Gauna|9.0
+100|Grance Lucas|10.0
+120|Roberto Carlos|2.0
+130|Marcos Alonso|5.0

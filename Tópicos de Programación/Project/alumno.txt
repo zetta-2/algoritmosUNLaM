@@ -1,0 +1,8 @@
+ 10Juan Perez          4.0
+ 20Florencia Re        4.0
+ 30Maria Benitez       7.5
+ 40Victor Gomez        7.5
+ 50Flavio Gomez        9.2
+ 70Julieta Beltran     3.0
+ 90Fernanda Gauna      9.0
+100Grance Lucas        10.0

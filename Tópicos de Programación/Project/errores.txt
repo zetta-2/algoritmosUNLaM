@@ -1,0 +1,3 @@
+55|Badom Daniel|250.000000
+85|Santiago Franco|800.000000
+87|Amabel Docaso|150.000000
