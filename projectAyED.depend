@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\usuario\desktop\projectayed\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1758854584 source:c:\users\usuario\desktop\projectayed\pilaestatica\spila.c
+	"sPila.h"
+	<string.h>
+
+1773259783 c:\users\usuario\desktop\projectayed\pilaestatica\spila.h
+	"../macros.h"
+
+1773259812 c:\users\usuario\desktop\projectayed\macros.h
+
